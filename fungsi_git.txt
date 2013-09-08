@@ -1,0 +1,8 @@
+PR (Mutia Rachmah)
+Macam-Macam git dan fungsinya
+
+Git Add		: Menambahkan isi file ke  indeks
+Git Commit 	: Merekam perubahan ke repositori
+Git Push		: Memperbarui ref terpencil bersama dengan bend-benda yang terkait
+Git Diff		: Menampilkan perubahan antar komit, melakukan dan pohon kerja, dll.
+Git Reset		: mengatur ulang kepala saat keadaan tertentu
